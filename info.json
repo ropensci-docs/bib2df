@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "8cfa2178e8a24c12846c848432c46e57cd362a59",
+    "author": "Philipp Ottolinger <philipp@ottolinger.de>",
+    "time": "2020-07-02 19:35:46",
+    "files": 2,
+    "merge": false,
+    "message": "added test covering issue #31\n"
+  },
+  "remote": "https://github.com/ropensci/bib2df",
+  "pkg": "bib2df"
+}

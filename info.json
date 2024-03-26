@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "136ac64ea6a6ab89b90a39eed0345fc8af6e4fac",
+    "author": "Gianluca Baio <g.baio@ucl.ac.uk>",
+    "time": "2023-05-31 14:15:13",
+    "files": 2,
+    "merge": false,
+    "message": "Add an option 'allfields' to df2bib to allow for only the fields with relevant information to be parsed onto the bibtex file\n"
+  },
+  "repo": "https://github.com/ropensci/bib2df",
+  "pkg": "bib2df"
+}

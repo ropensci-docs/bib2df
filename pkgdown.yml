@@ -1,0 +1,10 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  bib2df: bib2df.html
+last_built: 2024-03-26T06:09Z
+urls:
+  reference: https://docs.ropensci.org/bib2df/reference
+  article: https://docs.ropensci.org/bib2df/articles
+

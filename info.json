@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "4ff27d739a4b000ab71f6ef1e5a9c983d99ff9ed",
+    "author": "kellijohnson-NOAA <kelli.johnson@noaa.gov>",
+    "time": "2025-04-22T20:22:45Z",
+    "files": 1,
+    "merge": false,
+    "message": "Updates authors w/ new maintainer\n\nMoves Philipp to contributor\n"
+  },
+  "repo": "https://github.com/ropensci/bib2df",
+  "pkg": "bib2df",
+  "time": "2026-08-30T07:22:41Z"
+}
